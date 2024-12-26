@@ -6,6 +6,6 @@ A full report of the dataset is provided
 This is how to run the project using VSCodee
 Step 1: Run app.py 
 Step 2: Open another terminal to run react using "cd plant-recognition" and "npm start"
-Step 3: i have provided some images to test , the predicted label will be displayed for the images , if you would like more images , use the above link from the kaggle dataset
+Step 3: i have provided some images to test from the "uploads" folder , the predicted label will be displayed for the images , if you would like more images , use the above link from the kaggle dataset
 
 Thanks a lot 
