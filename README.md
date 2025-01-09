@@ -1,5 +1,5 @@
 This is my Plant Recognition Project , using a model i made from the plant recognition dataset from kaggle
-https://www.kaggle.com/code/gaborfodor/seedlings-pretrained-keras-models/notebook
+https://www.kaggle.com/competitions/plant-seedlings-classification
 
 A full report of the dataset is provided
 
